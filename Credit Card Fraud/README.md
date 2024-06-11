@@ -10,4 +10,4 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the Credit Card Fraud Detection Interface at [https://huggingface.co/docs/hub/spaces-config-reference](https://huggingface.co/spaces/Rakksk-30185/Credit_Card_Fraud)
